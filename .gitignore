@@ -4,11 +4,8 @@
 # Notes
 notes.txt
 
-# Generated figures
-figures/
-
 # Generated results
-results/
+/results/
 
 # Python cache
 __pycache__/
