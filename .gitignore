@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Notes
+notes.txt
+
+# Generated figures
+figures/
+
+# Generated results
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
